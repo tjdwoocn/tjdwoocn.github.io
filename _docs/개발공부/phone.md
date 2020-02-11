@@ -1,6 +1,6 @@
 ---
 title: Phone
-category: Contact Syncing
+category: 개발공부
 order: 2
 ---
 
